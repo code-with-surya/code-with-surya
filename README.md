@@ -1,6 +1,6 @@
-# <img src="https://giphy.com" width="30px"> Hey there, I'm Surya!
+# 📱 Hey there, I'm Surya!
 
-### 📱 Mobile-First Self-Taught Developer
+### Mobile-First Self-Taught Developer
 Welcome to my coding universe! 🌟 I am a passionate beginner learning how to program entirely from my mobile phone. I love turning logic into beautiful, interactive layouts and tracking my progress day by day.
 
 ---
@@ -9,23 +9,17 @@ Welcome to my coding universe! 🌟 I am a passionate beginner learning how to p
 - 🔭 **Current Focus:** Master the core fundamentals of web layout and logic.
 - 💻 **Coding Setup:** 100% Mobile development using **TrebEdit**.
 - 🏆 **Milestone:** Already built **12+ practice projects** from scratch!
-- ⚡ **Fun Fact:** I started uploading my journey on Day 7 of learning HTML! 
+- ⏳ **Timeline:** Learning web development entirely on my mobile phone since **25/08/2026**! 
 
 ---
 
 ### 🛠️ My Tech Toolbox
 Here are the languages and tools I am actively using to build my projects:
-
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![TrebEdit](https://shields.io)
-
----
-
-### 📊 My Coding Journey Analytics
-<p align="left">
-  <img src="https://vercel.app" alt="Surya's GitHub Stats" width="400" />
-  <img src="https://herokuapp.com" alt="Surya's Coding Streak" width="400" />
-</p>
+* 🌐 **HTML5** — Core web structuring and semantic layouts (Currently on Day 7!)
+* 🎨 **CSS3** — Styling, positioning, and designing layouts
+* 📱 **TrebEdit** — My favorite mobile code editor and development environment
 
 ---
+
+### 📊 My Coding Journey
+*Every single project I build helps me get one step closer to my goals. Check out my repositories tab below to see my live progress from day one!*
