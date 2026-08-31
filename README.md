@@ -9,7 +9,7 @@ Welcome to my coding universe! 🌟 I am a passionate beginner learning how to p
 - 🔭 **Current Focus:** Master the core fundamentals of web layout and logic.
 - 📱 **Coding Setup:** 100% Mobile development using **TrebEdit**.
 - 🏅 **Milestone:** Already built **12+ practice projects** from scratch!
-- ⏳ **Timeline:** Learning web development entirely on my mobile phone since **25/08/2026**! 
+- ⏱️ **Timeline:** Learning web development entirely on my mobile phone since **25/08/2026**! 
 
 ---
 
