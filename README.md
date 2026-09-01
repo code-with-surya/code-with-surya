@@ -5,7 +5,7 @@ Welcome to my coding universe! 🌟 I am a passionate beginner learning how to p
 
 ---
 
-### 🚀 Quick Stats & Goals
+### 🚅 Quick Stats & Goals
 - 🔭 **Current Focus:** Master the core fundamentals of web layout and logic.
 - 📱 **Coding Setup:** 100% Mobile development using **TrebEdit**.
 - 🏅 **Milestone:** Already built **12+ practice projects** from scratch!
@@ -13,9 +13,9 @@ Welcome to my coding universe! 🌟 I am a passionate beginner learning how to p
 
 ---
 
-### 🛠️ My Tech Toolbox
+### 🔧 My Tech Toolbox
 Here are the languages and tools I am actively using to build my projects:
-* 🌐 **HTML5** — Core web structuring and semantic layouts (Currently on Day 7!)
+* 🌐 **HTML5** — Core web structuring and semantic layouts.
 * 🎨 **CSS3** — Styling, positioning, and designing layouts.
 * 📱 **TrebEdit** — My favorite mobile code editor and development environment.
 
