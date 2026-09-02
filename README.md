@@ -6,18 +6,26 @@ Welcome to my coding universe! 🌟 I am a passionate beginner learning how to p
 ---
 
 ### 🚅 Quick Stats & Goals
-- 🔭 **Current Focus:** Master the core fundamentals of web layout and logic.
-- 📱 **Coding Setup:** 100% Mobile development using **TrebEdit**.
-- 🏅 **Milestone:** Already built **12+ practice projects** from scratch!
-- ⏱️ **Timeline:** Learning web development entirely on my mobile phone since **25/08/2026**! 
+-  **Current Focus:** Master the core fundamentals of web layout and logic.
+-  **Coding Setup:** 100% Mobile development using **TrebEdit**.
+-  **Milestone:** Already built **12+ practice projects** from scratch!
+-  **Timeline:** Learning web development entirely on my mobile phone since **25/08/2026**! 
 
 ---
 
-### 🔧 My Tech Toolbox
+### 👩🏻‍💻 My Tech Toolbox
 Here are the languages and tools I am actively using to build my projects:
-* 🌐 **HTML5** — Core web structuring and semantic layouts.
-* 🎨 **CSS3** — Styling, positioning, and designing layouts.
-* 📱 **TrebEdit** — My favorite mobile code editor and development environment.
+
+*  **HTML5** — Core web structuring and semantic layouts.
+*  **CSS3** — Styling, positioning, and designing layouts.
+
+**My Mobile Workflow 📱:**
+1. Write & save all my code in **TrebEdit**
+2. Export projects and manage files in my phone's **My Files** app
+3. Run them on a **Simple HTTP Server** to test how it actually works live
+4. Then push to GitHub!
+
+No laptop, no desktop — just me, my phone, and pure hustle.
 
 ---
 
