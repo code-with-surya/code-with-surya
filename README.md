@@ -1,4 +1,4 @@
-# Hi, I'm Surya Sinha
+# Hi, I'm Surya Sinha 🌻
 
 **Mobile-First Self-Taught Web Developer**
 
@@ -9,6 +9,11 @@ Self-taught web developer learning entirely on my mobile phone. Focused on build
 - Learning **HTML5 & CSS3** fundamentals
 - Building responsive layouts and daily practice projects
 - Building practice projects from scratch using **Acode** and **TrebEdit**
+
+### Featured Projects
+
+- **[Melbourne BBQ Spot](https://github.com/code-with-surya/melbourne-bbq-spot)** — A BBQ website built from scratch using HTML & CSS and deployed on Netlify.
+  🔗 [Live Demo](https://melbourne-bbq.netlify.app)
 
 ### Tech Toolbox
 - **HTML5** - Page structure
