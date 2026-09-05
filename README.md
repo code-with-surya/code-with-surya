@@ -1,33 +1,25 @@
-# 📱 Hey there, I'm Surya!
+# Hi, I'm Surya Sinha
 
-### Mobile-First Self-Taught Developer
-Welcome to my coding universe! 🌟 I am a passionate beginner learning how to program entirely from my mobile phone. I love turning logic into beautiful, interactive layouts and tracking my progress day by day.
+**Mobile-First Self-Taught Web Developer**
 
----
+### About Me
+Self-taught web developer learning entirely on my mobile phone. Focused on building strong fundamentals from scratch.
 
-### 🚅 Quick Stats & Goals
--  **Current Focus:** Master the core fundamentals of web layout and logic.
--  **Coding Setup:** 100% Mobile development using **TrebEdit**.
--  **Milestone:** Already built **12+ practice projects** from scratch!
--  **Timeline:** Learning web development entirely on my mobile phone since **25/08/2026**! 
+### Current Focus
+- Learning **HTML5 & CSS3** fundamentals
+- Building responsive layouts and daily practice projects
+- Building practice projects from scratch using **Acode** and **TrebEdit**
 
----
+### Tech Toolbox
+- **HTML5** - Page structure
+- **CSS3** - Styling and layouts
+- **Tools** - ACode, TrebEdit, GitHub
+- **Workflow** - Using AI as a learning assistant for debugging and explaining concepts
 
-### 👩🏻‍💻 My Tech Toolbox
-Here are the languages and tools I am actively using to build my projects:
+### Contact Me
+- Email: surya.codes44@gmail.com
+- Instagram: [@sugarpieturtlecube](https://instagram.com/sugarpieturtlecube)
 
-*  **HTML5** — Core web structuring and semantic layouts.
-*  **CSS3** — Styling, positioning, and designing layouts.
-
-**My Mobile Workflow 📱:**
-1. Write & save all my code in **TrebEdit**
-2. Export projects and manage files in my phone's **My Files** app
-3. Run them on a **Simple HTTP Server** to test how it actually works live
-4. Then push to GitHub!
-
-No laptop, no desktop — just me, my phone, and pure hustle.
 
 ---
-
-### 📊 My Coding Journey
-*Every single project I build helps me get one step closer to my goals. Check out my repositories tab below to see my live progress from day one!*
+*Currently learning web development, one commit at a time.*
