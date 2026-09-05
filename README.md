@@ -18,7 +18,7 @@ Self-taught web developer learning entirely on my mobile phone. Focused on build
 ### Tech Toolbox
 - **HTML5** - Page structure
 - **CSS3** - Styling and layouts
-- **Tools** - ACode, TrebEdit, GitHub
+- **Tools** - Acode, TrebEdit, GitHub
 - **Workflow** - Using AI as a learning assistant for debugging and explaining concepts
 
 ### Contact Me
@@ -27,4 +27,4 @@ Self-taught web developer learning entirely on my mobile phone. Focused on build
 
 
 ---
-*Currently learning web development, one commit at a time.*
+Currently learning web development, one commit at a time.
